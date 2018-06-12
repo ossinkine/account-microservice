@@ -1,0 +1,6 @@
+framework:
+    messenger:
+        transports:
+            default: amqp://guest:guest@rabbitmq:5672/%2f/messages
+        routing:
+            '*': default
