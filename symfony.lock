@@ -98,9 +98,6 @@
     "ocramius/proxy-manager": {
         "version": "2.2.0"
     },
-    "paragonie/random_compat": {
-        "version": "v2.0.12"
-    },
     "phar-io/manifest": {
         "version": "1.0.1"
     },
@@ -172,9 +169,6 @@
     },
     "psr/simple-cache": {
         "version": "1.0.1"
-    },
-    "ramsey/uuid": {
-        "version": "3.7.3"
     },
     "sebastian/code-unit-reverse-lookup": {
         "version": "1.0.1"
@@ -302,9 +296,6 @@
     "symfony/property-access": {
         "version": "v4.1.0"
     },
-    "symfony/property-info": {
-        "version": "v4.1.0"
-    },
     "symfony/routing": {
         "version": "4.0",
         "recipe": {
@@ -316,9 +307,6 @@
     },
     "symfony/serializer": {
         "version": "v4.1.0"
-    },
-    "symfony/serializer-pack": {
-        "version": "v1.0.1"
     },
     "symfony/yaml": {
         "version": "v4.0.11"
