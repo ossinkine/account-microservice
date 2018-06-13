@@ -16,7 +16,7 @@ services:
     worker:
         build: docker
         restart: always
-        command: bin/console messenger:consume-messages
+        command: bin/console messenger:consume-messages --memory-limit=16M
         working_dir: /app
         volumes:
             - .:/app
